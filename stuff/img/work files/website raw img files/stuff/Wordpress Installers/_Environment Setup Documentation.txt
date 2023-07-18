@@ -1,0 +1,15 @@
+To make this work properly, please download the following:
+
+XAMPP version 5.5.38-3-VC11
+Wordpress 4.7.1
+
+
+Templates:
+gwt-wordpress-25.1
+gwt-wordpress-25.2
+
+Plugins:
+display-widgets.2.05
+hide-title.1.0.4
+shortcodes-ultimate
+smart-slider-3.3.2.9

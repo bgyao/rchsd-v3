@@ -1,0 +1,323 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-BlackIt
+FamilyName:Proxima Nova
+StyleName:Black Italic
+FullName:Proxima Nova Black Italic
+MenuName:Proxima Nova Bl
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Proxima Nova Black It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:63280
+FileModTime:1228903200
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Black
+FamilyName:Proxima Nova
+StyleName:Black
+FullName:Proxima Nova Black
+MenuName:Proxima Nova Bl
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Proxima Nova Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:63008
+FileModTime:1228903200
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-BoldIt
+FamilyName:Proxima Nova
+StyleName:Bold Italic
+FullName:Proxima Nova Bold Italic
+MenuName:Proxima Nova Rg
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Proxima Nova Bold It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64588
+FileModTime:1228903200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Bold
+FamilyName:Proxima Nova
+StyleName:Bold
+FullName:Proxima Nova Bold
+MenuName:Proxima Nova Rg
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Proxima Nova Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:63808
+FileModTime:1228903200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Light
+FamilyName:Proxima Nova
+StyleName:Light
+FullName:Proxima Nova Light
+MenuName:Proxima Nova Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\ProximaNova-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62968
+FileModTime:1134098490
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-LightIt
+FamilyName:Proxima Nova
+StyleName:Light Italic
+FullName:Proxima Nova Light Italic
+MenuName:Proxima Nova Lt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\ProximaNova-LightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64240
+FileModTime:1134099920
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-Regular
+FamilyName:Proxima Nova
+StyleName:Regular
+FullName:Proxima Nova
+MenuName:Proxima Nova Rg
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\ProximaNova-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:62892
+FileModTime:1134101984
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:ProximaNova-RegularIt
+FamilyName:Proxima Nova
+StyleName:Regular Italic
+FullName:Proxima Nova Regular Italic
+MenuName:Proxima Nova Rg
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\ProximaNova-RegularItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64164
+FileModTime:1134210936
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-Black
+FamilyName:Vollkorn
+StyleName:Black
+FullName:Vollkorn Black
+MenuName:Vollkorn Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-Black.ttf
+DataFormat:sfntData
+FileLength:355776
+FileModTime:1283871600
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-BlackItalic
+FamilyName:Vollkorn
+StyleName:Black Italic
+FullName:Vollkorn Black Italic
+MenuName:Vollkorn Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-BlackItalic.ttf
+DataFormat:sfntData
+FileLength:350152
+FileModTime:1283871600
+WeightClass:900
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-Bold
+FamilyName:Vollkorn
+StyleName:Bold
+FullName:Vollkorn Bold
+MenuName:Vollkorn
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-Bold.ttf
+DataFormat:sfntData
+FileLength:356428
+FileModTime:1283871600
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-BoldItalic
+FamilyName:Vollkorn
+StyleName:Bold Italic
+FullName:Vollkorn Bold Italic
+MenuName:Vollkorn
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-BoldItalic.ttf
+DataFormat:sfntData
+FileLength:354864
+FileModTime:1283871600
+WeightClass:700
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-Italic
+FamilyName:Vollkorn
+StyleName:Italic
+FullName:Vollkorn Italic
+MenuName:Vollkorn
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-Italic.ttf
+DataFormat:sfntData
+FileLength:344168
+FileModTime:1283871600
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-Regular
+FamilyName:Vollkorn
+StyleName:Regular
+FullName:Vollkorn Regular
+MenuName:Vollkorn
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-Regular.ttf
+DataFormat:sfntData
+FileLength:338892
+FileModTime:1283871600
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-SemiBold
+FamilyName:Vollkorn
+StyleName:SemiBold
+FullName:Vollkorn SemiBold
+MenuName:Vollkorn SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-SemiBold.ttf
+DataFormat:sfntData
+FileLength:356304
+FileModTime:1283871600
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Vollkorn-SemiBoldItalic
+FamilyName:Vollkorn
+StyleName:SemiBold Italic
+FullName:Vollkorn SemiBold Italic
+MenuName:Vollkorn SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\untitled folder\Font\Vollkorn-SemiBoldItalic.ttf
+DataFormat:sfntData
+FileLength:354712
+FileModTime:1283871600
+WeightClass:600
+WidthClass:5
+AngleClass:1
+%EndFont
+
